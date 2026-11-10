@@ -70,7 +70,7 @@ color-palette-app/
 
 1. **Open a terminal** in the project folder (e.g. in PowerShell):
    ```
-   cd "C:\Users\taxia\Desktop\visionboardapp\mini app\electron-app-template"
+   cd "C:\Users\...."
    ```
 
 2. **Install dependencies:**
@@ -78,14 +78,6 @@ color-palette-app/
    npm install
    npm install electron --save-dev   
    ```
-
-3. **Create your `.env` file** in the project root (same folder as `server.js`):
-   ```
-   GEMINI_API_KEY=your_key_here
-   ```
-   Replace `your_key_here` with the key you generated from Google AI Studio.
-
----
 
 ## Running the App
 
